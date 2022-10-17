@@ -1,6 +1,6 @@
 # Student-Information-Management-System
 
-# Adds Student details to the database.
+# -->Adds Student details to the database.
 
 # Workflow :
 
